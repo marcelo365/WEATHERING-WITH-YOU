@@ -1,5 +1,5 @@
 **Idioma:**  
-🇦🇴 [Português](#-weathering-with-you--previsão-do-tempo) | 🇬🇧 [English](#-weathering-with-you--weather-forecast-app)
+🇦🇴 [Português](#-weathering-with-you--previsão-do-tempo)
 
 
 # 🌦️ Weathering With You – Previsão do Tempo
